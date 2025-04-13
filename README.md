@@ -5,7 +5,6 @@ This AI model will help automate NASA's re-entry calculation to adjust spacecraf
 # Technologies 
 The AI model code will be built using Python on VSCode, which is best for building AI models. An AI model framework will be constructed using a neural network approach to predict trajectories, and the use of data-handling technology like WebSockets to deal with data in real time.
 # How to run
-Clone the Repository  
-   ```bash  
-   git clone https://github.com/athbimohamed/Nasa-AI-re-entry-trajectory-.git  
-   cd Nasa-AI-re-entry-trajectory-  
+Clone the Repository   
+git clone https://github.com/athbimohamed/Nasa-AI-re-entry-trajectory-.git  
+cd Nasa-AI-re-entry-trajectory-  

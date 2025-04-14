@@ -10,3 +10,6 @@ git clone https://github.com/athbimohamed/Nasa-AI-re-entry-trajectory-.git
 cd Nasa-AI-re-entry-trajectory-  
 # login 
 the system now has a login feature so the astronauts can login securely.
+# AI framewokr
+the system currently has a complete framework for the AI model 
+

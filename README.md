@@ -8,3 +8,5 @@ The AI model code will be built using Python on VSCode, which is best for buildi
 Clone the Repository   
 git clone https://github.com/athbimohamed/Nasa-AI-re-entry-trajectory-.git  
 cd Nasa-AI-re-entry-trajectory-  
+# login 
+the system now has a login feature so the astronauts can login securely.

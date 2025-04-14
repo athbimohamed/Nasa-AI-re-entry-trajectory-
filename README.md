@@ -12,4 +12,5 @@ cd Nasa-AI-re-entry-trajectory-
 the system now has a login feature so the astronauts can login securely.
 # AI framewokr
 the system currently has a complete framework for the AI model 
-
+# Math equation 
+the system currently has th emath equations addded and can operate as expected 
